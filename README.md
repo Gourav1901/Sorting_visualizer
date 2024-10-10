@@ -33,12 +33,13 @@ Clone the repository:
 https://github.com/Gourav1901/Sorting_visualizer.git
 ```
 Usage
--Select a sorting algorithm from the dropdown menu.
--Adjust the array size and speed using the available sliders.
--Click the "Generate New Array" button to generate a random array or use the default one.
--Press "Start Sorting" to begin the visualization.
--Observe how the algorithm sorts the array, and you can pause or restart the process anytime.
+
+#-Select a sorting algorithm from the dropdown menu.
+#-Adjust the array size and speed using the available sliders.
+#-Click the "Generate New Array" button to generate a random array or use the default one.
+#-Press "Start Sorting" to begin the visualization.
+#-Observe how the algorithm sorts the array, and you can pause or restart the process anytime.
 Technologies Used
--HTML5: For structuring the application interface.
--CSS3: For styling and providing the visual layout of the web application.
--JavaScript: For implementing sorting algorithms and driving the logic behind visualizations and interactivity.
+#-HTML5: For structuring the application interface.
+#-CSS3: For styling and providing the visual layout of the web application.
+#-JavaScript: For implementing sorting algorithms and driving the logic behind visualizations and interactivity.
