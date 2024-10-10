@@ -28,9 +28,9 @@ All you need is a modern web browser that supports HTML5, CSS3, and JavaScript.
 
 Installation
 Clone the repository:
-'''
+```
 https://github.com/Gourav1901/Sorting_visualizer.git
-'''
+```
 Usage
 Select a sorting algorithm from the dropdown menu.
 Adjust the array size and speed using the available sliders.
